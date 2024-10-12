@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vending_Machine {
+public class Activity_5 {
 
     public static void main(String[] args) {
         Scanner Scan = new Scanner(System.in);
