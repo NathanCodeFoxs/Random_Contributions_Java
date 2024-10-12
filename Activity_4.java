@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RandomNumberCheck {
+public class Activity_4 {
     public static void main(String[] args) {
         // Create an instance of Random class
         Random rand = new Random();
